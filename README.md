@@ -4,6 +4,6 @@
 
 
 ### 2021
-* Vaga/Position => Empiricus (Senior Sr Backend developer/desenvolvedor) = [Git repo](https://github.com/viniciusao/Empiricus_Test) | Status: Aprovado/Approved && Contratato/Hired.
-* Vaga/Position => Observatório indústria (Engenheiro/Engineer de/of integrações/integrations Python) = [Git repo](https://github.com/viniciusao/Observat-rioIndustria) | Status: Aprovado/Approved && Não contratado/Not hired.
-* Vaga/Position => Argyle (Python crawler developer/desenvolvedor) = [Git repo](https://github.com/viniciusao/Argyle-Scanning-Task---Programming) | Status: Refused/Reprovado.
+* Vaga/Position => _Empiricus_ (_Senior Sr Backend developer/desenvolvedor_) = [Git repo](https://github.com/viniciusao/Empiricus_Test) | **Status**: _Aprovado/Approved && Contratato/Hired_.
+* Vaga/Position => _Observatório indústria_ (_Engenheiro/Engineer de/of integrações/integrations Python_) = [Git repo](https://github.com/viniciusao/Observat-rioIndustria) | **Status**: _Aprovado/Approved && Não contratado/Not hired_.
+* Vaga/Position => _Argyle_ (_Python crawler developer/desenvolvedor_) = [Git repo](https://github.com/viniciusao/Argyle-Scanning-Task---Programming) | **Status**: _Refused/Reprovado_.
